@@ -1,0 +1,5 @@
+# Exclude sensitive files
+.env
+__pycache__/
+*.db
+# Other sensitive files can be added here
